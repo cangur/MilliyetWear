@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_display_on_app"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:title="Uygulamada göster"/>
+    <item android:id="@+id/menu_like"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:title="Beğen" />
+    <item android:id="@+id/menu_share"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:title="Paylaş" />
+
+</menu>

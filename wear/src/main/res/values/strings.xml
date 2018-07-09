@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MilliyetWear</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <string-array name="news_array_names">
+        <item>haber1</item>
+        <item>haber2</item>
+        <item>haber3</item>
+        <item>haber4</item>
+        <item>haber5</item>
+        <item>haber6</item>
+    </string-array>
+
+    <string-array name="haber1">
+        <item>Haber 1</item>
+        <item>Haber içeriği.........</item>
+    </string-array>
+
+    <string-array name="haber2">
+        <item>Haber 2</item>
+        <item>Haber içeriği.........</item>
+    </string-array>
+
+    <string-array name="haber3">
+        <item>Haber 3</item>
+        <item>Haber içeriği.........</item>
+    </string-array>
+
+    <string-array name="haber4">
+        <item>Haber 4</item>
+        <item>Haber içeriği.........</item>
+    </string-array>
+
+    <string-array name="haber5">
+        <item>Haber 5</item>
+        <item>Haber içeriği.........</item>
+    </string-array>
+
+    <string-array name="haber6">
+        <item>Haber 6</item>
+        <item>Haber içeriği.........</item>
+    </string-array>
+
+</resources>
